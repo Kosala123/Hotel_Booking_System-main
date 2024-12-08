@@ -104,6 +104,5 @@ calculate_total(): Calculates the total cost of a reservation based on the numbe
 
 ## Contributors
 1.Dileeshan Kosala
-2.aaaaaaaaaaaaaa
-3.bbbbbbbbbbbbb
-4...........bbbbb
+2.bbbbbbbbbbbbb
+3.cccccccccc
